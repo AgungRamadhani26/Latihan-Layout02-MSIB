@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="title">Star Wars \n Rise of Skywalker</string>
+    <string name="genre">Space Fantasy</string>
+    <string name="desc">Set one year after the last Jedi, The Rise of Skylar follow Rey, Finn, and Poe Dameron as they lead the Resistences final stand against supreme leader Kylo Ren and the First Order, who are aided by the return of the Galactic Emperor, Palpatine</string>
+    <string name="title_release">Release Date</string>
+    <string name="release">December 18, 2019</string>
+    <string name="title_director">Director</string>
+    <string name="director">J. J. Abrams</string>
+    <string name="title_cast">Cast</string>
+    <string name="cast">Daisy Ridley, Adam Driver, Oscar Isaac, John Boyega, Billy Dee Williams, Keri Rusell, Domhall Gleeson, Anthony Daniels, Lupita Nyongo, Dominic Monangham, Kelly Marie Tan</string>
+    <string name="title_budget">Budget</string>
+    <string name="budget">416 million USD</string>
+    <string name="title_dist">Distributed by</string>
+    <string name="dist">Walt Disney Studios Motion Pictures</string>
+    <string name="title_based">Based on</string>
+    <string name="based">Characters; by George Lucas</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="thailand">Thailand</string>
+    <string name="malaysia">Malaysia</string>
+    <string name="singapura">Singapura</string>
+    <string name="release_date">5 Maret 2023</string>
+</resources>
